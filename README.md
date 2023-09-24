@@ -28,6 +28,11 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coratgerl&theme=tokyonight&hide_border=true"  width="520" alt="coratgerl"/>
-<img align="center" src="https://komarev.com/ghpvc/?username=coratgerl&label=Profile%20views&color=0047AB&style=flat&base=454" alt="coratgerl" height=25px, width=160px/> 
+<picture>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coratgerl&theme=tokyonight&hide_border=true"  width="100%" alt="coratgerl"/>
+</picture>
+<br>
+<picture>
+	<img src="https://komarev.com/ghpvc/?username=coratgerl&label=Profile%20views&color=0047AB&style=flat&base=454" alt="coratgerl" height=25px, width=160px/>
+</picture>
 
