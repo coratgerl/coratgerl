@@ -17,7 +17,7 @@
 
 - :school: Engineer graduate.
   
-- :technologist: I love using new technologies as a solution for a lot of `Problems`.
+- :technologist: I love using new technologies as a solution for a lot of `problems`.
   
 - :computer: Open source contributor
   
