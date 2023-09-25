@@ -15,17 +15,17 @@
   <img width="40%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coratgerl&theme=gruvbox&layout=compact&hide_border=true" alt="coratgerl :: Top Langs by commit" />
 </picture>
 
-- :school: Engineer graduate.
+- :school: Graduated software engineer
   
-- :technologist: I love using new technologies as a solution for a lot of `problems`.
+- :technologist: I love using new technologies as a solution for a lot of `problems`
   
 - :computer: Open source contributor
   
 - ⚡ I love blazingly `fast` solutions
   
-- 🌱 I am interesting about the impact of the computer science on the `energy consumption`
+- 🌱 I am interesting about the impact of the software on the `energy consumption`
   
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always `learning new things`
 <br>
 
 <picture>
