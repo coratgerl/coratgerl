@@ -1,6 +1,5 @@
 <div>
   <h1>Hi, I'm Lucas Coratger</h1>
-  
 </div>
 
 <div>
