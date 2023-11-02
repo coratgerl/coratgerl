@@ -8,7 +8,7 @@
   
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture>  
   <img width="40%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coratgerl&theme=gruvbox&layout=compact&hide_border=true" alt="coratgerl :: Top Langs by commit" />
