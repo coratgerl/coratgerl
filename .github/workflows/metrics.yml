@@ -40,9 +40,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_skipped: people-vox/main
-          plugin_notable_self: yes
-          plugin_notable_types: commit
