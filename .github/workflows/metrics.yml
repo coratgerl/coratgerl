@@ -32,7 +32,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_ignored: Java
+          plugin_languages_limit: 5
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -40,6 +41,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
           plugin_notable_repositories: yes
+          plugin_notable_skipped: people-vox/main
+          plugin_notable_self: yes
           plugin_notable_types: commit
