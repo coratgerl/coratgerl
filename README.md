@@ -3,7 +3,6 @@
 </div>
 
 
-- :school: Graduated software engineer
 - :computer: Open source contributor (Creator of [wobe](https://wobe.dev))
 - ⚡ I love blazingly `fast` solutions
 - :nerd_face: Always `learning new things`
