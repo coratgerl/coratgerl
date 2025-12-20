@@ -1,4 +1,4 @@
-# Hey, I'm Lucas Coratger! 👋
+# Hey, I'm Lucas ! 👋
 
 I'm an open source enthusiast who spends my days building tools to make developers' lives easier. **My thing?** Creating fast, no-nonsense solutions—because coding should be fun, not frustrating.
 
